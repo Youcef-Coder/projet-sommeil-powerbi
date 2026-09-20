@@ -1,8 +1,26 @@
-# projet-sommeil-powerbi
-Description: Projet d'analyse exploratoire visant à identifier les facteurs influençant la qualité du sommeil à partir d'un jeu de données public. L'analyse a été réalisée avec Power BI et a permis d'étudier l'impact de la durée du sommeil, du niveau de stress, de l'activité physique, de l'âge, de la profession et des troubles du sommeil.
+# Analyse de la qualité du sommeil avec Power BI
 
-Contenu du dépôt: Rapport Sommeil.pdf, Analyse_Sommeil.pbix
+## Objectif
+Analyser les facteurs influençant la qualité du sommeil à partir d'un jeu de données public.
 
-Outils utilisés: Power BI, Excel
+## Outils utilisés
+- Power BI
+- Excel
 
-Auteur: Youcef Fetmouche
+## Analyses réalisées
+- Durée du sommeil
+- Niveau de stress
+- Activité physique
+- Profession
+- Âge
+- Troubles du sommeil
+
+## Principaux résultats
+- Une durée de sommeil plus élevée est associée à une meilleure qualité du sommeil.
+- Le stress est associé à une baisse de la qualité du sommeil.
+- Les troubles du sommeil réduisent la qualité du sommeil.
+- Certaines professions présentent des différences significatives.
+
+## Fichiers
+- Rapport_Qualite_Sommeil.pdf
+- Dashboard_Qualite_Sommeil.pbix
